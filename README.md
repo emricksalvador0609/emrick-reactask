@@ -1,8 +1,5 @@
 # Emrick React Task App
 
-A modern task management web application built with a type-safe React + TypeScript stack, styled using Tailwind CSS, and powered by a Spring Boot backend on AWS.
-
-
 ## Features
 - Type-safe React with TypeScript
 - Responsive UI with Tailwind CSS
