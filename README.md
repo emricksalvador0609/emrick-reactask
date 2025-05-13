@@ -1,4 +1,4 @@
-# Error Finder App
+# Emrick Reac Task App
 
 ## Features
 - Type-safe React with TypeScript
