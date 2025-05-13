@@ -1,4 +1,4 @@
-# Emrick Reac Task App
+# Emrick React Task App
 
 ## Features
 - Type-safe React with TypeScript
