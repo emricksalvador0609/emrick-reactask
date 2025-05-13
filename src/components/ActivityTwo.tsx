@@ -22,10 +22,6 @@ interface AnswerRecord {
   feedback: string;
 }
 
-interface RouteParams {
-  round: string | undefined;
-}
-
 const ActivityTwo: React.FC = () => {
   const [rounds, setRounds] = useState<Round[]>([]);
   const [currentRoundIndex, setCurrentRoundIndex] = useState<number>(0);
